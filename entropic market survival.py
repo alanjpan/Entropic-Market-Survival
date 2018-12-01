@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 25 21:04:51 2018
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) financial markets, (ii) investor behavior, and (iii) information asymmetry in decision making (business) and risk-taking.
