@@ -1,7 +1,7 @@
 # Entropic-Market-Survival
 experimental research tool for financial market simulation, investor behavior, and information asymmetry
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) financial markets, (ii) investor behavior, and (iii) information asymmetry in decision making (business) and risk-taking.
